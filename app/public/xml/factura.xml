@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <dte:GTDocumento xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" xmlns:cex="http://www.sat.gob.gt/face2/ComplementoExportaciones/0.1.0" xmlns:cfc="http://www.sat.gob.gt/dte/fel/CompCambiaria/0.1.0" xmlns:cfe="http://www.sat.gob.gt/face2/ComplementoFacturaEspecial/0.1.0" xmlns:cno="http://www.sat.gob.gt/face2/ComplementoReferenciaNota/0.1.0" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:n1="http://www.altova.com/samplexml/other-namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.1" xsi:schemaLocation="http://www.sat.gob.gt/dte/fel/0.2.0 GT_Documento-0.2.0.xsd">
+        <dte:SAT ClaseDocumento="dte">
+            <dte:DTE ID="DatosCertificados">
+                <dte:DatosEmision ID="DatosEmision">
+                    <dte:DatosGenerales CodigoMoneda="GTQ" FechaHoraEmision="" Tipo="FACT"/>
+                    <dte:Emisor AfiliacionIVA="GEN" CodigoEstablecimiento="1" CorreoEmisor="" NITEmisor="" NombreComercial="" NombreEmisor="">
+                        <dte:DireccionEmisor>
+                            <dte:Direccion></dte:Direccion>
+                            <dte:CodigoPostal></dte:CodigoPostal>
+                            <dte:Municipio></dte:Municipio>
+                            <dte:Departamento></dte:Departamento>
+                            <dte:Pais>GT</dte:Pais>
+                        </dte:DireccionEmisor>
+                    </dte:Emisor>
+                    <dte:Receptor CorreoReceptor="" IDReceptor="" NombreReceptor=""/>
+                    <dte:Frases>
+                    </dte:Frases>
+                    <dte:Items>
+                    </dte:Items>
+                    <dte:Totales>
+                    </dte:Totales>
+                </dte:DatosEmision>
+            </dte:DTE>
+        </dte:SAT>
+    </dte:GTDocumento>
